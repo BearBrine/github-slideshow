@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-# SO BIG!
+# something new.
 ###### and small
 
 Use the left arrow to go back!
